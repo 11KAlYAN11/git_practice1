@@ -11,5 +11,6 @@ public class Demo1
         System.out.println("After branch change1");
         System.out.println("Change2");
         System.out.println("Change3");
+        System.out.println("There are some changes now in feature branch!");
     }
 }
