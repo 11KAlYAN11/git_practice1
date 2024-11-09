@@ -10,5 +10,8 @@ public class Kalyan {
         System.out.println("change8");
         System.out.println("change9");
         System.err.println("change10");
+        System.out.println("Hello");
+        System.out.println("World");
+        System.out.println("Welcome!");
     }
 }
