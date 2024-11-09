@@ -7,5 +7,8 @@ public class Kalyan {
         System.out.println("change5");
         System.out.println("change6");
         System.err.println("change7");
+        System.out.println("change8");
+        System.out.println("change9");
+        System.err.println("change10");
     }
 }
