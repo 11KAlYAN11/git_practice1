@@ -7,3 +7,5 @@ first change (reverted at first commit)
 Line A
 
 Line B
+
+Line C
