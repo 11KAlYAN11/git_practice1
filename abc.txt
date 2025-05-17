@@ -4,15 +4,4 @@ This is the change that I'm doing in feature
 
 first change (reverted at first commit)
 
-Line A
 
-Line B
-
-Line C
-
-line 1
-
-line 2
-
-line 3
-Line C
