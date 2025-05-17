@@ -9,5 +9,3 @@ intial version
 added title
 
 added lesson
-
-added final chapter
