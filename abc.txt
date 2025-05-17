@@ -8,7 +8,6 @@ Line A
 
 Line B
 
-<<<<<<< HEAD
 Line C
 
 line 1
@@ -16,6 +15,4 @@ line 1
 line 2
 
 line 3
-=======
 Line C
->>>>>>> 906700612ee25cad0f11da670c31da613036abeb
